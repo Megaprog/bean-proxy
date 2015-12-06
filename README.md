@@ -1,6 +1,6 @@
 # Bean Proxy
 
-The tool for creation bean proxies.
+The tool for creation of bean proxies.
 
 ## How to get it?
 
@@ -23,9 +23,7 @@ Let we have the interface
 
 ```java
 public interface Example {
-
     int getIntValue();
-
     void setIntValue(int value);
 }
 ```
