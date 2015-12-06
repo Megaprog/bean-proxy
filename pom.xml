@@ -4,7 +4,7 @@
 
     <groupId>org.jmmo</groupId>
     <artifactId>bean-proxy</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <packaging>jar</packaging>
 
     <name>Bean Proxy</name>
